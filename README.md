@@ -3,6 +3,8 @@
 ImpactUI is an beautiful UI Library for Roblox Script using Lua!
 Its have a Dark and Blurple Design and its easy to learn!
 
+<img src="https://i.imgur.com/U120piK.png" width="500" />
+
 ## Usage
 
 ### Basics
